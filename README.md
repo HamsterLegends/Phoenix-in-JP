@@ -2,7 +2,7 @@
 CTF歴皆無、C言語はポインタだけ軽くわかって全体軽く触った、pythonも軽く触った、といった感じです。
 これらに関するwriteupを読んでも結構英語で回りくどい書かれ方をされているな、と感じることが多いので、個人的に解説を作ってみてしまうことにしてしまいました。
 
-間違えているところや、改善点などがあればお気軽にお申しつけください。私のスキルが上がること、様々な方々とかかわれることにうれしく思います。
+間違えているところや、改善点などがあればお気軽にお申しつけください。私のスキルが上がること、様々な方々と関われることにうれしく思います。
 
 I am a complete beginner from Japan.
 I am personally summarizing how to solve challenges on exploit.education (https://exploit.education/

